@@ -1,0 +1,6 @@
+#Wrapper
+	a.something(href=anUrlFromLocals,target="_blank")=aTextFromLocals
+		div 'abouk'
+		article#Main(title='such a beautiful title',text='fantastic text')
+	a.blah(href="#somewhere/beautiful") 'ommak'
+#ItJustWorks
